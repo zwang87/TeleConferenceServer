@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Network\NetworkClient.cs">
+    <Files>
+      <File FileName="Assets\Network\NetworkClient.cs" Line="146" Column="43" />
+      <File FileName="Assets\Kinect\Scripts\ColorSourceView.cs" Line="14" Column="5" />
+      <File FileName="Assets\Kinect\Scripts\BodySourceView.cs" Line="220" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
